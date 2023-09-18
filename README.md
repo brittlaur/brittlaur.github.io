@@ -1,6 +1,6 @@
 # brittlaur.github.io
 
-### Brittany's GitHub Page - not the file project
+### Brittany's GitHub Page - not the final product
 
 ## About Me
 
