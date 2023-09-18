@@ -1,3 +1,11 @@
-# DSC410 Predictive Analytics
+# brittlaur.github.io
 
-## This is where I will show you what I have completed for DSC410 Predictive Analytics.
+### Brittany's GitHub Page - currently being renovated
+
+## About Me
+
+## Contact Information
+### Email: broberts52710@gmail.com
+
+## Works in Progress
+### <a href="https://github.com/brittlaur/brittlaur.github.io">Home Page</a>
