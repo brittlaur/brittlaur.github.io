@@ -9,4 +9,4 @@
 
 ## Works in Progress
 ### <a href="https://github.com/brittlaur/DSC410">DSC410</a>
-### <a href="[https://github.com/brittlaur/DSC410](https://github.com/brittlaur/dsc450-Covid-Project/tree/main)https://github.com/brittlaur/dsc450-Covid-Project/tree/main">Covid Prediction Project</a>
+### <a href="https://github.com/brittlaur/dsc450-Covid-Project/tree/main)https://github.com/brittlaur/dsc450-Covid-Project/tree/main">Covid Prediction Project</a>
