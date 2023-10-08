@@ -6,6 +6,7 @@
 
 ## Contact Information
 ### Email: broberts52710@gmail.com
+### <a href="https://www.linkedin.com/in/brittany-roberts-699905ba/">LinkedIn</a>
 
 ## Works in Progress
 ### <a href="https://github.com/brittlaur/DSC410">DSC410</a>
