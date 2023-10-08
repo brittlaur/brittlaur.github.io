@@ -2,7 +2,7 @@
 
 ### Brittany's GitHub Page - not the final product
 
-## <a href="https://brittlaur.github.io/about-me.html>About Me</a>
+## <a href="https://brittlaur.github.io/about-me.html">About Me</a>
 
 ## Contact Information
 ### Email: broberts52710@gmail.com
