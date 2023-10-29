@@ -10,6 +10,6 @@
 
 ## Works in Progress
 
-### <a href="https://github.com/brittlaur/dsc450-Covid-Project">Covid Prediction Project</a>
+### <a href="https://brittalaur.github.io/covid-prediction-project.html">Covid Prediction Analysis</a>
 ### <a href="https://github.com/brittlaur/dsc450-Housing-Project">Housing Project</a>
 ### <a href="https://github.com/brittlaur/dsc450-Loan-Project">Loan Project</a>
