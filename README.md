@@ -12,4 +12,4 @@
 
 ### <a href="https://brittlaur.github.io/covid-prediction-project.html">Covid Prediction Analysis</a>
 ### <a href="https://github.com/brittlaur/dsc450-Housing-Project">Housing Project</a>
-### <a href="https://github.com/brittlaur/dsc450-Loan-Project">Loan Project</a>
+### <a href="https://github.com/brittlaur/dsc450-Loan-Project](https://github.com/brittlaur/brittlaur.github.io/blob/main/loan.html)https://github.com/brittlaur/brittlaur.github.io/blob/main/loan.html">Loan Project</a>
