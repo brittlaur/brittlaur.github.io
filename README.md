@@ -1,7 +1,7 @@
 ## Brittany's Portfolio Page
 
 ## <a href="https://brittlaur.github.io/about-me.html">About Me</a>
-## ![alt text](https://github.com/brittlaur/brittlaur.github.io/blob/main/20200521_223429.jpg =200x200)
+![alt text](https://github.com/brittlaur/brittlaur.github.io/blob/main/20200521_223429.jpg =200x200)
 
 ## Contact Information
 ### Email: broberts52710@gmail.com
